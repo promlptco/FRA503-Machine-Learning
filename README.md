@@ -6,6 +6,8 @@ A collection of supervised learning assignments covering **regression and classi
 
 This repository contains three machine learning projects implementing end-to-end ML pipelines including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
+---
+
 ## Projects
 
 ### HW01: Medical Charge Prediction (Regression)
